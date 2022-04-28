@@ -86,7 +86,7 @@ run().catch(console.dir)
 
 
 app.get("/",(req,res)=> {
-    res.send("helllo im form home")
+    res.send("helllo form home")
 })
 
 
